@@ -1,0 +1,14 @@
+{
+  "name": "lunch",
+  "version": "1.0.0",
+  "description": "Lunch service to tell something to cook today",
+  "main": "lunch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GabrielSVinha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
